@@ -27,7 +27,7 @@ function App() {
        <h4>Integrante 5</h4>
 
        <h6>Enlace al proyecto</h6>
-       <a href="index.html">Click aqui para ir a mi proyecto</a>
+       <a href="inicio.html">Click aqui para ir a mi proyecto</a>
 
       </div>
       <p className="read-the-docs">
