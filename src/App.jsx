@@ -20,8 +20,8 @@ function App() {
       <div className="card">
        <h3>Integrantes</h3>
 
-       <h4>Jose Javier piamba 1</h4>
-       <h4>Integrante 2</h4>
+       <h4>JOSE JAVIER PIAMBA 1</h4>
+       <h4>CRISTIAN ARDANY TORRES 2</h4>
        <h4>Integrante 3</h4>
        <h4>Integrante 4</h4>
        <h4>Integrante 5</h4>
