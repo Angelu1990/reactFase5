@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Selectores CSS</h1>
+      <h1>Box Model</h1>
       <div className="card">
        <h3>Integrantes</h3>
 
